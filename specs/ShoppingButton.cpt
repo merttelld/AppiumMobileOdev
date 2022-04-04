@@ -1,0 +1,7 @@
+Created by testinium on 03-Apr-22
+
+This is a concept file with following syntax for each concept.
+# Alışverişe başla butonuna tıklanır
+* "3" saniye kadar bekle
+* Xpath "//*[@resource-id='com.ozdilek.ozdilekteyim:id/tv_startShoppingStore']" li butonu bul ve tıkla
+* "3" saniye kadar bekle
